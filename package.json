@@ -1,5 +1,5 @@
 {
-   "name": "𝔼𝕊 𝕋𝔼𝔸𝕄𝕊-𝕍2👑",
+   "name": "WULU-𝕍2👑",
    "version": "2.5.0",
    "description": "Multi device whatsapp bot by ES TEAMS.",
    "main": "index.js",
@@ -13,7 +13,7 @@
       "fis-heroku-postbuild": "git clone https://github.com/DeeCeeXxx/Queen_Anita-V2.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "ES TEAMS",
+   "author": "WULU",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
