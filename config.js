@@ -6,7 +6,7 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "examsolutionteam@gmail.com";
+global.email = "goodlucknwawulu@gmail.com";
 global.location = "Abuja, Nigeria";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
@@ -18,8 +18,8 @@ global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vaj1vKSK5cDD
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/ec33ecf51f928d0a89a1b.jpg";
 global.devs = "https://t.me/examsolutionteam";
-global.sudo = process.env.SUDO || "";
-global.owner = process.env.OWNER_NUMBER || "";
+global.sudo = process.env.SUDO || "2347063859672";
+global.owner = process.env.OWNER_NUMBER || "14099551065";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -37,8 +37,8 @@ global.save_status = process.env.AUTO_SAVE_STATUS || "false";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "";
 global.read_status_from = process.env.READ_STATUS_FROM || "";
 
-global.api_smd = "https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y";
-global.scan = "https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y";
+global.api_smd = "https://api.whatsapp.com/send?phone=2347063859672&text=Hello%20Wulu%20save%20up%20as%20(Your%20name?)";
+global.scan = "https://api.whatsapp.com/send?phone=2347063859672&text=Hello%20Wulu%20save%20up%20as%20(Your%20name?)";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 𝔼𝕊 𝕋𝔼𝔸𝕄𝕊-𝕍2👑",
-  author: process.env.PACK_AUTHER || "ES TEAMS-V2",
-  packname: process.env.PACK_NAME || "ES TEAMS",
-  botname: process.env.BOT_NAME || "𝔼𝕊 𝕋𝔼𝔸𝕄𝕊-𝕍2👑",
-  ownername: process.env.OWNER_NAME || "𝔼𝕊 𝕋𝔼𝔸𝕄𝕊-𝕋𝔼ℂℍ👑",
+  caption: process.env.CAPTION || "ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 WULU👑",
+  author: process.env.PACK_AUTHER || "WULU-V2",
+  packname: process.env.PACK_NAME || "WULU-V2",
+  botname: process.env.BOT_NAME || "BOT-WULU-𝕍2👑",
+  ownername: process.env.OWNER_NAME || "WULU👑",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
